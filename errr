@@ -1,0 +1,2 @@
+# code.linenisgreat.com/rosled
+./main.go:87:35: cannot convert d (variable of type *Display) to type DisplayPrinterTerminal
